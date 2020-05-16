@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="xml suite">
+
+    <test name = "Wwex.com">
+        <classes>
+        <class name="WebDriverManagerPractice"/>
+        </classes>
+    </test>
+
+</suite>
